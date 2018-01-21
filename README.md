@@ -21,6 +21,7 @@ protein names as follows:
 * HIV1-HXB2-RNH.fasta (P15): Ribonuclease H p15 (EC 3.1.26.4) - Human immunodeficiency virus type 1 (HXB2 isolate) (HIV-1).
 * HIV1-HXB2-RT.fasta (RT,P51): Reverse Transcriptase p51 (EC 2.7.7.49) - Human immunodeficiency virus type 1 (HXB2 isolate) (HIV-1).
 * HIV1-HXB2-TAT.fasta (TAT): sp|P04608|TAT_HV1H2 TAT protein (Transactivating regulatory protein) - Human immunodeficiency virus type 1 (HXB2 isolate) (HIV-1).
+* HIV1-HXB2-VIF.fasta (P23): sp|P03401|VIF_HV1B1 Human immunodeficiency virus type 1 (HXB2 isolate) (HIV-1)
 * HIV1-HXB2-p1.fasta (P1): Gag p1 - Human immunodeficiency virus type 1 (HXB2 isolate) (HIV-1).
 * HIV1-HXB2-p2.fasta (P2): Gag p2 - Human immunodeficiency virus type 1 (HXB2 isolate) (HIV-1).
 * HIV1-HXB2-p6.fasta (P6): Gag p6 - Human immunodeficiency virus type 1 (HXB2 isolate) (HIV-1).
